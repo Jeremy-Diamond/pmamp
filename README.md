@@ -2,6 +2,8 @@
 
 Docker with Apache, PHP, MySQL, phpMyAdmin
 
+Testing a local development environment with Docker. This is a simple setup
+
 This set of images creates a container running an Apache Web server with a
 MySQL database backend. PHP is the language of choice in this setup. A running
 copy of phpMyAdmin is included for easy database administration.
